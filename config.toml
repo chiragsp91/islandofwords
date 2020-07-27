@@ -1,5 +1,5 @@
 # default config
-#baseURL = "https://examplesite.org"
+baseURL = "https://islandofwords.xyz"
 theme = "parsa-hugo"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
