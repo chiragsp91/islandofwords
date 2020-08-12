@@ -67,9 +67,9 @@ preloader = true
 # search
 search = true
 # about author
-author = "Noah"
+author = "Shalu"
 author_image = "images/flower.jpg"
-bio = "I’m a avid book reader, baker and curious."
+bio = "I’m a avid book reader, baker and curious creature."
 # Contact info
 #mobile = ""
 email = "exmaple@ymail.com"

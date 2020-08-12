@@ -5,4 +5,4 @@ description: "This is meta description"
 image: "images/flower.jpg"
 ---
 
-I'm a blogger, baker and a curious creature. This blog is my outlet to the world. Her you'll my thoughts about the books I read , the recipes I bake and much more.
+I'm a blogger, baker and a curious creature. This blog is my outlet to the world. Her you'll find my thoughts about the books I read, the recipes I bake and much more.
