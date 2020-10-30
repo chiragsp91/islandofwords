@@ -3,7 +3,7 @@ title: "THE SELF-ASSERTIVE VOICES OF INDIAN WOMEN WRITERS FROM THE LATE-NINETEEN
 date: 2020-10-29T14:46:10+06:00
 description: "THE SELF-ASSERTIVE VOICES OF INDIAN WOMEN WRITERS FROM THE LATE-NINETEENTH TO EARLY TWENTIETH CENTURY "
 type: "post"
-image: "images/books-2.jpg"
+image: "images/writer-1.jpg"
 categories: 
   - "Article"
 tags:
