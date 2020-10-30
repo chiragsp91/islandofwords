@@ -2,7 +2,7 @@
 baseURL = "https://islandofwords.xyz"
 theme = "parsa-hugo"
 languageCode = "en-us"
-title = "Personal Blog"
+title = "Shalu's Personal Blog"
 
 summaryLength = "10"
 paginate = 6
