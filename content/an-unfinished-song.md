@@ -1,6 +1,6 @@
 ---
 title: "An Unfinished Song (1910) - A book review"
-date: 2020-07-30T14:46:10+06:00
+date: 2020-10-30T00:00:10+05:30
 description: "Analysis of the book 'An Unfinished Song (1910)' by Swarnakumari Devi"
 type: "post"
 image: "images/oldBook.jpg"
