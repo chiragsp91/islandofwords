@@ -1,7 +1,7 @@
 ---
-title: "THE SELF-ASSERTIVE VOICES OF INDIAN WOMEN WRITERS FROM THE LATE-NINETEENTH TO EARLY TWENTIETH CENTURY "
+title: "The Self-Assertive Voices of Indian Women Writers from the Late-Nineteenth to Early TWentieth Century"
 date: 2020-10-29T14:46:10+06:00
-description: "THE SELF-ASSERTIVE VOICES OF INDIAN WOMEN WRITERS FROM THE LATE-NINETEENTH TO EARLY TWENTIETH CENTURY "
+description: "The Self-Assertive Voices of Indian Wwomen Writers from the Late-Nineteenth to Early TWwentieth century"
 type: "post"
 image: "images/writer-1.jpg"
 categories: 
