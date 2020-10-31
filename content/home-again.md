@@ -1,6 +1,6 @@
 ---
-title: "THome Again"
-date: 2020-10-20T00:46:10+06:00
+title: "Home Again"
+date: 2020-10-31T00:46:10+06:00
 description: "Home Again - A Short Story"
 type: "post"
 image: "images/home-1.jpg"
