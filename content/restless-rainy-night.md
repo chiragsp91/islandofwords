@@ -1,7 +1,7 @@
 ---
 title: "Restless Rainy Night"
 date: 2021-04-13T00:00:10+05:30
-description: "A feature article"
+description: "A feature articles"
 type: "post"
 image: "images/rainy-night.jpg"
 categories: 
