@@ -1,13 +1,13 @@
 ---
 title: "Restless Rainy Night"
 date: 2021-04-13T00:00:10+05:30
-description: "A feature article"
+description: "A feature articles"
 type: "post"
 image: "images/rainy-night.jpg"
 categories: 
-  - "Article"
+  - "Story"
 tags:
-  - "Article"
+  - "Story"
 ---
 
 I open my eyes to pitch black darkness. A rustling sound comes from my bedroom window. Judging by the soft glow of moonlight floating through the curtains, it must have been 1 or 2' o clock in the morning. Abruptly, woken up from sleep, I try to get up in unhurried movements, careful not to move my old bones too much. It takes me a while to locate my glasses on the shelf and turn on the bed lamp.  
