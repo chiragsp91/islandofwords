@@ -79,27 +79,23 @@ contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2021"
+copyright = "Copyright &copy; 2022"
 
-# Instagram feed
-[params.instafeed]
-enable = true
-user_id = "4044026246"
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+# # Instagram feed
+# [params.instafeed]
+# enable = true
+# user_id = "4044026246"
+# access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 
-# social site
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
+# # social site
+# [[params.social]]
+# icon = "ti-facebook"
+# URL = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/day_dreamer345"
 
-[[params.social]]
-icon = "ti-linkedin"
-URL = "#"
-
-[[params.social]]
-icon = "ti-github"
-URL = "#"
+# [[params.social]]
+# icon = "ti-linkedin"
+# URL = "#"
