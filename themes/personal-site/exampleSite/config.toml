@@ -1,23 +1,23 @@
-baseURL                       = "https://islandofwords.xyz"
+baseURL                       = "https://example.com/"
 languageCode                  = "id"
-title                         = "Island of Words"
+title                         = "Wisnuwiry"
 theme                         = "personal-site"
 summaryLength                 = 10
 
 [Author] # Used in authorbox
-  name                        = "Shalu"
+  name                        = "Jhon Doe"
   bio                         = ""
-  avatar                      = "images/logo2.png"
-  job                         = "Content Writer"
-  gender                      = "female"
-  email                       = "shalakasp66@gmail.com"
+  avatar                      = "img/avatar.webp"
+  job                         = "Software Engineer"
+  gender                      = "male"
+  email                       = "jhon-doe@gmail.com"
 
 
 [Params]
-  subTitle                    = "Shalu's Personal Blog"
-  description                 = "Personal blog where I write about the diverse topics like literature and interesting events" # Site Description. Used in meta description
-  images                      = ["images/logo2.png"]
-  #copyright                   = "Wisnuwiry" # Copyright holder, otherwise will use .Site.Title
+  subTitle                    = "Personal site, Blog, and Portfolio"
+  description                 = "Sebuah catatan dan blog pribadi saya. Saya juga akan membagi tentang pengalaman saya dan teknologi-teknolgi yang saya gunakan/pelajari atau yang sedang populer." # Site Description. Used in meta description
+  images                      = ["img/avatar.webp"]
+  copyright                   = "Wisnuwiry" # Copyright holder, otherwise will use .Site.Title
   opengraph                   = true # Enable OpenGraph if true
   twitter_cards               = true # Enable Twitter Cards if true
   mainSections                = ["post"] # Set main page sections
@@ -34,7 +34,7 @@ summaryLength                 = 10
   fontUnit                    = "em"
   largestFontSize             = 2.5
   smallestFontSize            = 1
-  #googleSearchConsole         = ""
+  googleSearchConsole         = ""
   # GoogleAnalytics             = ""
   # fb_admins                   = 
   # fb_app_id                   = 
@@ -42,19 +42,19 @@ summaryLength                 = 10
   # adsenseId                   = 
 
   # Google Search custom, more info: https://cse.google.com/cse/all
- # customSearchId              = "004021659876411083349:a2ysxpichpc"
+  customSearchId              = "004021659876411083349:a2ysxpichpc"
 
-  endMessagePost              = "Please leave your comments. Comments are welcome "
+  endMessagePost              = "Wrong content? "
   
   # Link repo to edit content
-  # editContentPageLink         = "https://github.com/wisnuwiry/blog-v2/edit/master/content/"
+  editContentPageLink         = "https://github.com/wisnuwiry/blog-v2/edit/master/content/"
   
   # Formspree form contact id, more info: https://cse.google.com/cse/all
-  # formspreeId                 = ""
+  formspreeId                 = ""
   
 
 [Params.Hero]
-  title                       = "Shalu's Personal Blog"
+  title                       = "A Personal Site By Jhon Doe"
   desc                        = "Welcome to my Blog :)"
 
 [Params.Entry]
@@ -77,42 +77,42 @@ pre = "📝"
 url = "/post" 
 weight = 1 
 
-# [[menu.main]]
-# identifier = "Snippet"
-# pre = "⚒️"
-# url = "/snippet" 
-# weight = 2 
+[[menu.main]]
+identifier = "Snippet"
+pre = "⚒️"
+url = "/snippet" 
+weight = 2 
 
-# [[menu.main]]
-# identifier = "Project"
-# pre = "🚧"
-# url = "/project" 
-# weight = 3 
+[[menu.main]]
+identifier = "Project"
+pre = "🚧"
+url = "/project" 
+weight = 3 
 
 [[menu.main]]
 identifier = "About"
 pre = "😃"
 url = "/about" 
-weight = 2
+weight = 4
 
 [[menu.main]]
 identifier = "Contact"
 pre = "🤙"
 url = "/contact" 
-weight = 3
+weight = 5
 
 [Params.Breadcrumb]
   enable                      = true # Enable breadcrumb block globally
   homeText                    = "Home" # Home node text
 
 [Params.Social]
-#  twitter                     = "jhon-doe"
-#  telegram                    = "jhon-doe"
- instagram                   = "jhon-doe"
-#  linkedin                    = "wisnu-saputra"
-#  github                      = "jhon-doe"
-#  gitlab                      = "jhon-doe"
-#  medium                      = "jhon-doe"
+  twitter                     = "jhon-doe"
+  telegram                    = "jhon-doe"
+# instagram                   = "jhon-doe"
+  linkedin                    = "wisnu-saputra"
+  github                      = "jhon-doe"
+  gitlab                      = "jhon-doe"
+  medium                      = "jhon-doe"
 
 [Params.Share] # Entry Share block
   facebook                    = true
@@ -126,13 +126,13 @@ weight = 3
 # https://www.w3.org/TR/appmanifest/
 # https://developers.google.com/web/fundamentals/web-app-manifest/
 [Params.Manifest]
-  name                        = "Shalu"
-  shortName                   = "Shalu"
+  name                        = "Wisnuwiry"
+  shortName                   = "Wisnuwiry"
   display                     = "standalone"
   startUrl                    = "/?utm_source=homescreen"
   backgroundColor             = "#8dc153"
   themeColor                  = "#1da1f2"
-  description                 = "Shalu's personal blog"
+  description                 = "Personal Site By Wisnuwiry"
   orientation                 = "portrait"
   scope                       = "/"
 
