@@ -7,7 +7,7 @@ summaryLength                 = 10
 [Author] # Used in authorbox
   name                        = "Shalu"
   bio                         = ""
-  avatar                      = "images/logo2.png"
+  avatar                      = "images/islandLogo.png"
   job                         = "Content Writer"
   gender                      = "female"
   email                       = "shalakasp66@gmail.com"
