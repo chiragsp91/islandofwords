@@ -126,8 +126,8 @@ weight = 3
 # https://www.w3.org/TR/appmanifest/
 # https://developers.google.com/web/fundamentals/web-app-manifest/
 [Params.Manifest]
-  name                        = "Shalu"
-  shortName                   = "Shalu"
+  name                        = "Shalu's Blog"
+  shortName                   = ""
   display                     = "standalone"
   startUrl                    = "/?utm_source=homescreen"
   backgroundColor             = "#8dc153"
