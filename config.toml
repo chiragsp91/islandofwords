@@ -7,7 +7,7 @@ summaryLength                 = 10
 [Author] # Used in authorbox
   name                        = "Shalu"
   bio                         = ""
-  avatar                      = "images/islandLogo.png"
+  avatar                      = "/images/islandLogo.png"
   job                         = "Content Writer"
   gender                      = "female"
   email                       = "shalakasp66@gmail.com"
@@ -16,7 +16,7 @@ summaryLength                 = 10
 [Params]
   subTitle                    = "Shalu's Personal Blog"
   description                 = "Personal blog where I write about the diverse topics like literature and interesting events" # Site Description. Used in meta description
-  images                      = ["images/logo2.png"]
+  images                      = ["/images/islandLogo.png"]
   #copyright                   = "Wisnuwiry" # Copyright holder, otherwise will use .Site.Title
   opengraph                   = true # Enable OpenGraph if true
   twitter_cards               = true # Enable Twitter Cards if true
