@@ -3,6 +3,7 @@ languageCode                  = "id"
 title                         = "Island of Words"
 theme                         = "personal-site"
 summaryLength                 = 10
+homepage = "https://islandofwords.xyz"
 
 [Author] # Used in authorbox
   name                        = "Shalu"
