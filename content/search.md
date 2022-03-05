@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Search 🔍
 description: Carilah dan tulis sesuatu kata kunci yang sesuai dengan keinginan Anda, dan carilah sampe ketemu!.
 toc: false
@@ -68,4 +68,4 @@ page: true
 .gsc-cursor-box{
     margin: 3rem 0.3rem !important;
 }
-</style>
+</style> -->

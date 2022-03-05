@@ -45,7 +45,7 @@ homepage = "https://islandofwords.xyz"
   # Google Search custom, more info: https://cse.google.com/cse/all
  # customSearchId              = "004021659876411083349:a2ysxpichpc"
 
-  endMessagePost              = "Please leave your comments. Comments are welcome "
+  #endMessagePost              = "Please leave your comments. Comments are welcome "
   
   # Link repo to edit content
   # editContentPageLink         = "https://github.com/wisnuwiry/blog-v2/edit/master/content/"
@@ -55,8 +55,8 @@ homepage = "https://islandofwords.xyz"
   
 
 [Params.Hero]
-  title                       = "Shalu's Personal Blog"
-  desc                        = "Welcome to my Blog :)"
+  title                       = "Shalu's Blog"
+  desc                        = "Welcome to my Blog. This is where  I review books and write short stories :)"
 
 [Params.Entry]
   meta                        = ["date", "categories"] # Enable meta fields in given order
@@ -118,8 +118,8 @@ weight = 3
 [Params.Share] # Entry Share block
   facebook                    = true
   twitter                     = true
-  reddit                      = true
-  telegram                    = true
+  reddit                      = false
+  telegram                    = false
   linkedin                    = true
   pinterest                   = true
 
@@ -128,7 +128,7 @@ weight = 3
 # https://developers.google.com/web/fundamentals/web-app-manifest/
 [Params.Manifest]
   name                        = "Shalu's Blog"
-  shortName                   = ""
+  shortName                   = "Shalu's Blog"
   display                     = "standalone"
   startUrl                    = "/?utm_source=homescreen"
   backgroundColor             = "#8dc153"
